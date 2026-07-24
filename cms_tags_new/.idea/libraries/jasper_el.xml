@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jasper-el">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Downloads/apache-tomcat-9.0.118/apache-tomcat-9.0.118/lib/jasper-el.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/apache-tomcat-9.0.118/apache-tomcat-9.0.118/lib/jasper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/apache-tomcat-9.0.118/apache-tomcat-9.0.118/lib/jaspic-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/apache-tomcat-9.0.118/apache-tomcat-9.0.118/lib/jsp-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

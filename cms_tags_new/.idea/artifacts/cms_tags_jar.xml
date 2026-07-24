@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cms_tags:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cms_tags_jar</output-path>
+    <root id="archive" name="cms_tags.jar">
+      <element id="module-output" name="cms_tags" />
+    </root>
+  </artifact>
+</component>
